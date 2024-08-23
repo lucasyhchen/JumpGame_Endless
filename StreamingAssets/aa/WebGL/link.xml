@@ -57,6 +57,7 @@
     <type fullname="Missile" preserve="all" />
     <type fullname="MissionEntry" preserve="all" />
     <type fullname="Character" preserve="all" />
+    <type fullname="RestartRunning" preserve="all" />
     <type fullname="MissionUI" preserve="all" />
     <type fullname="CharacterAccessories" preserve="all" />
     <type fullname="SimpleBarricade" preserve="all" />
@@ -70,7 +71,6 @@
     <type fullname="CoinMagnet" preserve="all" />
     <type fullname="TrackSegment" preserve="all" />
     <type fullname="RandomAnimation" preserve="all" />
-    <type fullname="RestartRunning" preserve="all" />
   </assembly>
   <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEditor.MonoScript" preserve="all" />
